@@ -6,7 +6,7 @@ import javax.swing.*;
 
 public class JScrollPaneTest extends JFrame {
     /**
-     *
+     * JScrollPane 面板
      */
     private static final long serialVersionUID = 1L;
 

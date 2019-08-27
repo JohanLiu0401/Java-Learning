@@ -1,9 +1,13 @@
+package swing;
 import java.awt.*;
 import java.awt.event.*;
 
 import javax.swing.*;
 
-class MyJDialog extends JDialog { // ��������̳�JDialog��
+class MyJDialog extends JDialog {
+    /**
+     * 对话框
+     */
 
     private static final long serialVersionUID = 1L;
 

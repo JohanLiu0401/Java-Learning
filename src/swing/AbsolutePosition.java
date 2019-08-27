@@ -6,7 +6,7 @@ import javax.swing.*;
 
 public class AbsolutePosition extends JFrame {
     /**
-     *
+     *  绝对布局
      */
     private static final long serialVersionUID = 1L;
 

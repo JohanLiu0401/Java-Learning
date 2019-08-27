@@ -6,7 +6,7 @@ import javax.swing.*;
 
 public class BorderLayoutPosition extends JFrame {
     /**
-     *
+     *  边界布局管理器
      */
     private static final long serialVersionUID = 1L;
     String[] border = { BorderLayout.CENTER, BorderLayout.NORTH,

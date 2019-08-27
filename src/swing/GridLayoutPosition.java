@@ -6,7 +6,7 @@ import javax.swing.*;
 
 public class GridLayoutPosition extends JFrame {
     /**
-     *
+     * 网格布局管理器
      */
     private static final long serialVersionUID = 1L;
 

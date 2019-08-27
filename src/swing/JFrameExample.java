@@ -4,6 +4,10 @@ import javax.swing.*;
 import java.awt.*;
 
 public class JFrameExample extends JFrame {
+    /**
+     * JFrame 窗体
+     */
+
     public void CreateJFrame(String title){
         JFrame jf = new JFrame(title);
         Container container = jf.getContentPane();

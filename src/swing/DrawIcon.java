@@ -5,6 +5,9 @@ import java.awt.*;
 import javax.swing.*;
 
 public class DrawIcon implements Icon {
+    /**
+     * 图标
+     */
     private int width;
     private int height;
 

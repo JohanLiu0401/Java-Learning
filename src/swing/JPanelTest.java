@@ -6,7 +6,7 @@ import javax.swing.*;
 
 public class JPanelTest extends JFrame {
     /**
-     *
+     * JPanel 面板
      */
     private static final long serialVersionUID = 1L;
 

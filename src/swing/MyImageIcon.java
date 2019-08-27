@@ -6,6 +6,9 @@ import java.net.*;
 import javax.swing.*;
 
 public class MyImageIcon extends JFrame {
+    /**
+     * 使用图片图标
+     */
 
     private static final long serialVersionUID = 1L;
 

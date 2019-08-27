@@ -9,7 +9,7 @@ import javax.swing.JFrame;
 public class ExampleFrame_03 extends JFrame {
 
     /**
-     *
+     * 网格组布局管理器
      */
     private static final long serialVersionUID = 1L;
 

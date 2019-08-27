@@ -6,7 +6,7 @@ import javax.swing.*;
 
 public class FlowLayoutPosition extends JFrame {
     /**
-     *
+     * 流布局管理器
      */
     private static final long serialVersionUID = 1L;
 

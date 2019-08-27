@@ -4,6 +4,10 @@ import javax.swing.*;
 import java.awt.*;
 
 public class JRadioButtonTest extends JFrame {
+    /**
+     * 单选按钮
+     */
+
     public JRadioButtonTest(){
         Container c = getContentPane();
         JRadioButton jr1 = new JRadioButton("1");

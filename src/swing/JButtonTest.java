@@ -8,7 +8,7 @@ import javax.swing.*;
 
 public class JButtonTest extends JFrame {
     /**
-     *
+     * 提交按钮组件
      */
     private static final long serialVersionUID = 1L;
 
